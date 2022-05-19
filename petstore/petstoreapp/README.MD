@@ -1,4 +1,4 @@
-Sample Text - TM
+Sample Text Edit- TM
 
 PetStoreApp is the front facing Java Spring Boot Web Application used in the Azure Pet Store Reference Guide.
 
